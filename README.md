@@ -7,4 +7,4 @@ crrosionは雑魚
 isgcプロキシをついにalloyに移植
 認証付き
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/herokuhabataku/isgc--alloy/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Taisei-dev/isgc--alloy/tree/main)
