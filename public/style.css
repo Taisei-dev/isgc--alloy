@@ -81,7 +81,7 @@ body{
 	word-break:break-all;	
 }
 .wrapper .container .form input[type="text"]{
-        font-size:0.8em;
+        font-size:1.0em;
 	outline: 0;
 	-webkit-appearance: none;
         border: 0px solid #ffffff;
@@ -90,10 +90,10 @@ body{
 .wrapper .container .form input[type="text"]:focus{
         border-color: #ffffff;
 	font-family:"Hiragino Mincho ProN"
-	font-size:0.8em;
+	font-size:1.0em;
 }
 .wrapper .container .form button[id="initiate"]{
-	font-size:0.8em;
+	font-size:1.0em;
         position: relative;
         display: inline-block;
         cursor: pointer;
